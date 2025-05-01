@@ -12,5 +12,4 @@ The system is powered by **Agentic AI**, with dedicated agents for handling web 
 
 ---
 
-## 🧩 Agent Hierarchy
 
